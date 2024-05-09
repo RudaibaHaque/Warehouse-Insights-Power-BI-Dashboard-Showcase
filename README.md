@@ -13,7 +13,7 @@ This Power BI dashboard project provides an insightful overview of warehouse pro
 
 ## Video Demonstration
 
-[Watch the video demonstration](link_to_video) to see how the dashboard works
+[Watch the video demonstration](Warehouse Inventory Power BI DASHBOARD.mp4) to see how the dashboard works
 
 ## Usage
 
