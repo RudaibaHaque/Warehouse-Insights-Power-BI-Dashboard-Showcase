@@ -11,23 +11,18 @@ This Power BI dashboard project provides an insightful overview of warehouse pro
 - **Zone Quantity Donut Chart:** Present the sum of product quantities for different companies by zone in the warehouse.
 - **Supplier Slicer:** Select suppliers from a slicer to filter data while respecting privacy by masking supplier names.
 
+## Video Demonstration
+
+[Watch the video demonstration](link_to_video) to see how the dashboard works
+
 ## Usage
 
-1. Open the Power BI dashboard file (.pbix) using Power BI Desktop.
-2. Interact with the dashboard by utilizing slicers and filters:
-    - Use the search functionality to find specific products by ID, Inventory ID, Product ID, or Supplier ID.
-    - Filter the data by selecting specific suppliers from the slicer.
-3. Analyze the visualizations to gain insights into warehouse product quantities based on company, year, and zone.
+Since the actual Power BI dashboard file (.pbix) is not included due to sensitive information, please refer to the video demonstration for usage instructions.
 
 ## Data Privacy
 
-- Supplier names have been masked to ensure data privacy and confidentiality.
+- Supplier names have been masked in the video demonstration to ensure data privacy and confidentiality.
 - Only aggregated data is displayed, maintaining the confidentiality of individual transactions and sensitive information.
-
-## Installation
-
-1. Clone or download the repository.
-2. Open the Power BI dashboard file (.pbix) using Power BI Desktop.
 
 ## Contributors
 
