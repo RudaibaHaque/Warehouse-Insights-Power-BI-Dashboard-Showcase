@@ -1,4 +1,4 @@
-# Power BI Warehouse Dashboard
+# Warehouse Insights: Power BI Dashboard Showcase
 
 This Power BI dashboard project provides an insightful overview of warehouse product quantities, allowing users to filter and search for products by various identifiers. It also includes visualizations for analyzing product quantities by company, year, and zone while ensuring data privacy by masking supplier names.
 
